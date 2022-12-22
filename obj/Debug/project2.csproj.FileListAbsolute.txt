@@ -1,0 +1,8 @@
+S:\college\discrete math\projects\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+S:\college\discrete math\projects\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
+S:\college\discrete math\projects\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+S:\college\discrete math\projects\project2\bin\Debug\project2.exe.config
+S:\college\discrete math\projects\project2\bin\Debug\project2.exe
+S:\college\discrete math\projects\project2\bin\Debug\project2.pdb
+S:\college\discrete math\projects\project2\obj\Debug\project2.exe
+S:\college\discrete math\projects\project2\obj\Debug\project2.pdb
